@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "ce66aa34e1950730",
+    "type": "split",
+    "children": [
+      {
+        "id": "d952ec95a7296e5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39671b212b4ed09f",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/hotkeys.json",
+                "bFile": ".obsidian/hotkeys.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: hotkeys.json"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d57cf8f0561722e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "22ae57b41dca2b48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c8ccf3ce15f8b58",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "9dc1e44f3fc0051f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#соматический",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "8c49ac295a8150ff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 303.5
+  },
+  "right": {
+    "id": "ef4821fdb88e0131",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f3df5d24bf9beb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "462626c85d82611e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Гильдия «Стражи»/Боёвка/Игроки/Тирандил.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Тирандил"
+            }
+          },
+          {
+            "id": "4fd8edf2bad517ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Гильдия «Стражи»/Боёвка/Игроки/Тирандил.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Тирандил"
+            }
+          },
+          {
+            "id": "09650af0eb5bb586",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "4b6fbecd2878a51c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "818629643566c888",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "818629643566c888",
+  "lastOpenFiles": [
+    "Боевой.md",
+    "Магические предметы/Верёвка лазания (Rope of Climbing).md",
+    "All Notes",
+    "2025-04-17.md",
+    "Лугуника/Ша'агротская кампания/Враги/Хобгоблин Тень Ша'агрота.md",
+    "Заклинания/0-й уровень (Заговоры)/Меткий удар (True Strike).md",
+    "Заклинания/0-й уровень (Заговоры)/Волшебная рука (Mage Hand).md",
+    "Заклинания/1-й уровень/Поспешное отступление (Expeditious Retreat).md",
+    "Заклинания/1-й уровень/Порча (Bane).md",
+    "Заклинания/1-й уровень/Убежище (Sanctuary).md",
+    "Заклинания/1-й уровень/Усыпление (Sleep).md",
+    "Заклинания/0-й уровень (Заговоры)/Малая иллюзия (Minor Illusion).md",
+    "Лугуника/Ша'агротская кампания/Враги/Урук'хай.md",
+    "Лугуника/Ша'агротская кампания/Враги/Орк.md",
+    "Лугуника/Ша'агротская кампания/Враги/Хобгоблин железная тень.md",
+    "Лугуника/Ша'агротская кампания/Враги/Состав армии орков.md",
+    "Лугуника/Ша'агротская кампания/Враги/Орк коготь Лутик.md",
+    "Заклинания/0-й уровень (Заговоры)/Сопротивление (Resistance).md",
+    "Заклинания/0-й уровень (Заговоры)/Священное пламя (Sacred Flame).md",
+    "Заклинания/0-й уровень (Заговоры)/Указание (Guidance).md",
+    "Заклинания/3-й уровень/Проклятие (Bestow Curse).md",
+    "Заклинания/3-й уровень/Снятие проклятья (Remove Curse).md",
+    "Заклинания/3-й уровень/Мельфовы маленькие метеоры (Melf's Minute Meteors).md",
+    "Заклинания/3-й уровень/Контрзаклинание (Counterspell).md",
+    "Заклинания/1-й уровень/Псевдожизнь (False Life).md",
+    "Заклинания/0-й уровень (Заговоры)/Клуб дыма (Puff of Smoke).md",
+    "Заклинания/0-й уровень (Заговоры)/Дружба (Friends).md",
+    "Без названия.canvas",
+    "Лугуника/Без названия.canvas",
+    "Заклинания/7-й уровень",
+    "Заклинания/8-й уровень",
+    "Лугуника/Ша'агротская кампания/Союзники",
+    "Лугуника/Ша'агротская кампания/Враги",
+    "Лугуника/Ша'агротская кампания",
+    "Лугуника",
+    "Лугуника/Гильдия «Стражи»/Персонажи/NPC",
+    "Лугуника/Гильдия «Стражи»/Персонажи/Игроки",
+    "Вспомогательное/Черты",
+    "Pasted image 20241020191643.png",
+    "Без названия 3.canvas",
+    "Без названия 2.canvas",
+    "Без названия 1.canvas"
+  ]
+}

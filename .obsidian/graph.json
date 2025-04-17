@@ -1,0 +1,149 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#враг  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#магический_предмет tag:#необычный  ",
+      "color": {
+        "a": 1,
+        "rgb": 1276172
+      }
+    },
+    {
+      "query": "tag:#редкий tag:#магический_предмет  ",
+      "color": {
+        "a": 1,
+        "rgb": 3045098
+      }
+    },
+    {
+      "query": "tag:#заговор",
+      "color": {
+        "a": 1,
+        "rgb": 14322140
+      }
+    },
+    {
+      "query": "tag:#1-й_уровень",
+      "color": {
+        "a": 1,
+        "rgb": 12545720
+      }
+    },
+    {
+      "query": "tag:#2-й_уровень ",
+      "color": {
+        "a": 1,
+        "rgb": 11292069
+      }
+    },
+    {
+      "query": "tag:#3-й_уровень  ",
+      "color": {
+        "a": 1,
+        "rgb": 11087263
+      }
+    },
+    {
+      "query": "tag:#4-й_уровень ",
+      "color": {
+        "a": 1,
+        "rgb": 9380998
+      }
+    },
+    {
+      "query": "tag:#5-й_уровень  ",
+      "color": {
+        "a": 1,
+        "rgb": 7410793
+      }
+    },
+    {
+      "query": "tag:#6-й_уровень  ",
+      "color": {
+        "a": 1,
+        "rgb": 8851088
+      }
+    },
+    {
+      "query": "tag:#игрок  ",
+      "color": {
+        "a": 1,
+        "rgb": 65284
+      }
+    },
+    {
+      "query": "tag:#черта  ",
+      "color": {
+        "a": 1,
+        "rgb": 910567
+      }
+    },
+    {
+      "query": "tag:#общее  ",
+      "color": {
+        "a": 1,
+        "rgb": 15717454
+      }
+    },
+    {
+      "query": "tag:#место  ",
+      "color": {
+        "a": 1,
+        "rgb": 13776770
+      }
+    },
+    {
+      "query": "tag:#7-й_уровень  ",
+      "color": {
+        "a": 1,
+        "rgb": 7539353
+      }
+    },
+    {
+      "query": "tag:#8-й_уровень  ",
+      "color": {
+        "a": 1,
+        "rgb": 6751116
+      }
+    },
+    {
+      "query": "tag:#магический_предмет tag:#обычный  ",
+      "color": {
+        "a": 1,
+        "rgb": 14277086
+      }
+    },
+    {
+      "query": "tag:#неигровой_персонаж  ",
+      "color": {
+        "a": 1,
+        "rgb": 9428112
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0.5,
+  "nodeSizeMultiplier": 1.14635416666667,
+  "lineSizeMultiplier": 1.9375,
+  "collapse-forces": true,
+  "centerStrength": 0.541666666666667,
+  "repelStrength": 12.6041666666667,
+  "linkStrength": 0.692708333333333,
+  "linkDistance": 89,
+  "scale": 0.16348370567220488,
+  "close": true
+}
