@@ -11,14 +11,14 @@
             "id": "39671b212b4ed09f",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/hotkeys.json",
-                "bFile": ".obsidian/hotkeys.json",
-                "aRef": ""
+                "file": "Лугуника/Гильдия «Стражи»/Места/Дануолл.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: hotkeys.json"
+              "icon": "lucide-file",
+              "title": "Дануолл"
             }
           }
         ]
@@ -142,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Лугуника/Гильдия «Стражи»/Места/Дануолл.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Дануолл"
             }
           },
           {
@@ -178,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "818629643566c888",
+  "active": "39671b212b4ed09f",
   "lastOpenFiles": [
     "Боевой.md",
     "Магические предметы/Верёвка лазания (Rope of Climbing).md",
