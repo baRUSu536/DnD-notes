@@ -7,14 +7,22 @@
   "canvas": true,
   "outgoing-link": true,
   "tag-pane": true,
+<<<<<<< HEAD
   "footnotes": false,
   "properties": true,
+=======
+  "properties": false,
+>>>>>>> babe771716078f38558c6e5e6508e7123a427161
   "page-preview": true,
   "daily-notes": true,
   "templates": true,
   "note-composer": true,
   "command-palette": true,
+<<<<<<< HEAD
   "slash-command": false,
+=======
+  "slash-command": true,
+>>>>>>> babe771716078f38558c6e5e6508e7123a427161
   "editor-status": true,
   "bookmarks": true,
   "markdown-importer": false,
@@ -22,12 +30,23 @@
   "random-note": false,
   "outline": true,
   "word-count": true,
+<<<<<<< HEAD
   "slides": false,
+=======
+  "slides": true,
+>>>>>>> babe771716078f38558c6e5e6508e7123a427161
   "audio-recorder": false,
   "workspaces": false,
   "file-recovery": true,
   "publish": false,
+<<<<<<< HEAD
   "sync": true,
   "bases": true,
   "webviewer": false
+=======
+  "sync": false,
+  "webviewer": false,
+  "footnotes": false,
+  "bases": true
+>>>>>>> babe771716078f38558c6e5e6508e7123a427161
 }

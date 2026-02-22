@@ -1,9 +1,14 @@
 {
+<<<<<<< HEAD
   "collapse-filter": true,
+=======
+  "collapse-filter": false,
+>>>>>>> babe771716078f38558c6e5e6508e7123a427161
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
+<<<<<<< HEAD
   "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [],
@@ -18,5 +23,127 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 1,
+=======
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#враг -(#именованый_нип)",
+      "color": {
+        "a": 1,
+        "rgb": 11766784
+      }
+    },
+    {
+      "query": "tag:#магический_предмет tag:#необычный  ",
+      "color": {
+        "a": 1,
+        "rgb": 1276172
+      }
+    },
+    {
+      "query": "tag:#редкий tag:#магический_предмет  ",
+      "color": {
+        "a": 1,
+        "rgb": 3779827
+      }
+    },
+    {
+      "query": "tag:#заклинание  ",
+      "color": {
+        "a": 1,
+        "rgb": 16537599
+      }
+    },
+    {
+      "query": "tag:#игрок  ",
+      "color": {
+        "a": 1,
+        "rgb": 65284
+      }
+    },
+    {
+      "query": "tag:#черта  ",
+      "color": {
+        "a": 1,
+        "rgb": 870730
+      }
+    },
+    {
+      "query": "tag:#общее  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "tag:#место  ",
+      "color": {
+        "a": 1,
+        "rgb": 11007
+      }
+    },
+    {
+      "query": "tag:#магический_предмет tag:#обычный  ",
+      "color": {
+        "a": 1,
+        "rgb": 14277086
+      }
+    },
+    {
+      "query": "tag:#неигровой_персонаж  tag:#именованый_нип  ",
+      "color": {
+        "a": 1,
+        "rgb": 16449453
+      }
+    },
+    {
+      "query": "tag:#враг tag:#именованый_нип  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#лугуника tag:#государство  ",
+      "color": {
+        "a": 1,
+        "rgb": 421722
+      }
+    },
+    {
+      "query": "tag:#механики tag:#дополнительные_правила path:Эспера  ",
+      "color": {
+        "a": 1,
+        "rgb": 9083274
+      }
+    },
+    {
+      "query": "path:Эспера/Существа  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#неигровой_персонаж tag:#союзник",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.9,
+  "nodeSizeMultiplier": 1.12083333333333,
+  "lineSizeMultiplier": 0.533854166666667,
+  "collapse-forces": true,
+  "centerStrength": 0.588541666666667,
+  "repelStrength": 16.0416666666667,
+  "linkStrength": 0.9375,
+  "linkDistance": 177,
+  "scale": 0.13873223932666093,
+>>>>>>> babe771716078f38558c6e5e6508e7123a427161
   "close": true
 }
