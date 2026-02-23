@@ -6,11 +6,7 @@
   "description": "Improved table navigation, formatting, manipulation, and formulas",
   "isDesktopOnly": false,
   "minAppVersion": "1.0.0",
-<<<<<<< HEAD
   "version": "0.22.1",
-=======
-  "version": "0.22.0",
->>>>>>> babe771716078f38558c6e5e6508e7123a427161
   "js": "main.js",
   "fundingUrl": {
     "Github Sponsor": "https://github.com/sponsors/tgrosinger",
@@ -18,8 +14,4 @@
     "Paypal": "https://paypal.me/tgrosinger"
   },
   "donation": "https://buymeacoffee.com/tgrosinger"
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> babe771716078f38558c6e5e6508e7123a427161

@@ -1,46 +1,28 @@
 {
-  "commitMessage": "vault backup: {{date}}",
-<<<<<<< HEAD
+  "commitMessage": "Бэкап от {{date}}",
   "autoCommitMessage": "vault backup: {{date}}",
   "commitMessageScript": "",
-  "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-=======
   "commitDateFormat": "DD-MM-YYYY HH:mm:ss",
->>>>>>> babe771716078f38558c6e5e6508e7123a427161
-  "autoSaveInterval": 0,
+  "autoSaveInterval": 10,
   "autoPushInterval": 0,
   "autoPullInterval": 0,
   "autoPullOnBoot": false,
-<<<<<<< HEAD
   "autoCommitOnlyStaged": false,
   "disablePush": false,
   "pullBeforePush": true,
   "disablePopups": false,
   "showErrorNotices": true,
-=======
-  "disablePush": false,
-  "pullBeforePush": true,
-  "disablePopups": false,
->>>>>>> babe771716078f38558c6e5e6508e7123a427161
   "disablePopupsForNoChanges": false,
   "listChangedFilesInMessageBody": false,
   "showStatusBar": true,
   "updateSubmodules": false,
   "syncMethod": "merge",
-<<<<<<< HEAD
   "mergeStrategy": "none",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": false,
   "treeStructure": false,
   "refreshSourceControl": true,
-  "basePath": "DnD",
-=======
-  "customMessageOnAutoBackup": false,
-  "autoBackupAfterFileChange": false,
-  "treeStructure": true,
-  "refreshSourceControl": true,
-  "basePath": "All Notes",
->>>>>>> babe771716078f38558c6e5e6508e7123a427161
+  "basePath": "",
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false,
   "showedMobileNotice": true,
@@ -53,14 +35,11 @@
   "authorInHistoryView": "hide",
   "dateInHistoryView": false,
   "diffStyle": "split",
-<<<<<<< HEAD
   "hunks": {
     "showSigns": false,
     "hunkCommands": false,
     "statusBar": "disabled"
   },
-=======
->>>>>>> babe771716078f38558c6e5e6508e7123a427161
   "lineAuthor": {
     "show": false,
     "followMovement": "inactive",
@@ -85,10 +64,5 @@
     "gutterSpacingFallbackLength": 5,
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
-<<<<<<< HEAD
   }
-=======
-  },
-  "autoCommitMessage": "vault backup: {{date}}"
->>>>>>> babe771716078f38558c6e5e6508e7123a427161
 }
